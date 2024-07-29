@@ -11,7 +11,10 @@ This SwiftUI project demonstrates a loading button with an animated "Loading" te
 
 ## Preview
 
-![Loading Button Preview](https://github.com/user-attachments/assets/d2b5ce98-d67e-434c-97e1-504ed8e1b6aa)
+<div style="width: 300px; height: 100px; overflow: hidden;">
+  <img src="https://github.com/user-attachments/assets/d2b5ce98-d67e-434c-97e1-504ed8e1b6aa" alt="Loading Button Preview" style="width: 100%; height: auto;">
+</div>
+
 
 
 ## Installation
